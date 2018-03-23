@@ -36,6 +36,9 @@ public class JournalFragment extends Fragment {
     private RecyclerView rvJournal;
     private JournalAdapter adapter;
     List<JournalDummy> listJournal = new ArrayList<>();
+    //add link rss aditya
+    private String urlString = "http://if.uinsgd.ac.id/feed";
+    //
 
     ProgressDialog loading;
 

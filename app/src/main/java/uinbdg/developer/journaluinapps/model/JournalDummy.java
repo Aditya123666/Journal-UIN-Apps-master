@@ -3,7 +3,7 @@ package uinbdg.developer.journaluinapps.model;
 /**
  * Created by Nikko Eka Saputra on 13/02/2018.
  */
-
+//h
 public class JournalDummy {
 
     private String judul;
